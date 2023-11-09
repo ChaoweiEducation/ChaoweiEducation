@@ -15,11 +15,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm 超维教育</h1>
 <h3 align="center">成都超维教育咨询有限责任公司</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaoweieducation&label=Profile%20views&color=0e75b6&style=flat" alt="chaoweieducation" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaoweieducation" alt="chaoweieducation" /></a> </p>
-
-- 🔭 I’m currently working on 成都超维教育咨询有限责任公司 [超维教育](https://chaoweieducation.github.io/)
+- 🔭 I’m currently working on [超维教育](https://chaoweieducation.github.io/)
 
 - 👯 I’m looking to collaborate on education [超维教育](https://chaoweieducation.github.io/)
 
@@ -61,6 +57,11 @@ You can click the Preview link to take a look at your changes.
 <p>
 <a href="https://www.buymeacoffee.com/chaoweieducation"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chaoweieducation" /></a>
 <a href="https://ko-fi.com/chaoweieducation"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="chaoweieducation" /></a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaoweieducation&label=Profile%20views&color=0e75b6&style=flat" alt="chaoweieducation" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaoweieducation" alt="chaoweieducation" /></a> </p>
+
 </p>
 <br>
 <br>
