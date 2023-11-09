@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">🔭 超维教育(https://chaoweieducation.github.io/)</h3>
 
-<h3 align="center"> 👨‍💻QQ **1780802882** 📞TEL **13086638685** 📫Email **chaoweieducation@163.com**</h3>
+<h3 align="center"> 👨‍💻QQ 1780802882 📞TEL 13086638685 📫Email chaoweieducation@163.com</h3>
  
 <h3 align="center">Connect with Me:</h3>
 <p align="center">
@@ -49,15 +49,11 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">Support:</h3>
 <p>
-<a href="https://www.buymeacoffee.com/chaoweieducation"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="100" width="400" alt="chaoweieducation" /></a>
-<a href="https://ko-fi.com/chaoweieducation"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="100" width="400" alt="chaoweieducation" /></a>
+<a href="https://www.buymeacoffee.com/chaoweieducation"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="100" width="450" alt="chaoweieducation" /></a>
+<a href="https://ko-fi.com/chaoweieducation"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="100" width="450" alt="chaoweieducation" /></a>
 </p>
 
 <br>
 <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaoweieducation&show_icons=true&locale=en" alt="chaoweieducation" /></p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chaoweieducation&label=Profile%20views&color=0e75b6&style=flat" alt="chaoweieducation" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaoweieducation" alt="chaoweieducation" /></a> </p>
