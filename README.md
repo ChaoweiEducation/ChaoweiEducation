@@ -15,10 +15,10 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm 超维教育</h1>
 <h3 align="center">成都超维教育咨询有限责任公司</h3>
 
-- 🔭 I’m currently working on [超维教育](https://chaoweieducation.github.io/) and 👯 I’m looking to collaborate on education.
+<h3 align="center">🔭 I’m currently working on [超维教育](https://chaoweieducation.github.io/).</h3>
 
-- 👨‍💻 How to join QQ **1780802882**. 📞 How to contact us **13086638685**. 📫 How to email us **chaoweieducation@163.com**.
-
+<h3 align="center"> How to reach us 👨‍💻QQ **1780802882** 📞TEL **13086638685** 📫Email **chaoweieducation@163.com**.</h3>
+ 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/chaoweieducation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chaoweieducation" height="30" width="40" /></a>
@@ -49,8 +49,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">Support:</h3>
 <p>
-<a href="https://www.buymeacoffee.com/chaoweieducation"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chaoweieducation" /></a>
-<a href="https://ko-fi.com/chaoweieducation"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="chaoweieducation" /></a>
+<a href="https://www.buymeacoffee.com/chaoweieducation"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chaoweieducation" /></a>
+<a href="https://ko-fi.com/chaoweieducation"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="chaoweieducation" /></a>
 
 </p>
 <br>
